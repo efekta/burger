@@ -25,7 +25,7 @@
 
 @font-face {
   font-family: 'Gagalin-Regular';
-  src: url("../fonts/Gagalin-Regular.woff") format("woff");
+  src: url("../fonts/Gagalin/Gagalin-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -39,21 +39,21 @@
 
 @font-face {
   font-family: 'Ubuntu-Light';
-  src: url("../fonts/Ubuntu-Light.woff") format("woff");
+  src: url("../fonts/Ubuntu/Ubuntu-Light.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Ubuntu-Medium';
-  src: url("../fonts/Ubuntu-Medium.woff") format("woff");
+  src: url("../fonts/Ubuntu/Ubuntu-Medium.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'ubuntubold';
-  src: url("../fonts/ubuntu-b-webfont.woff") format("woff");
+  src: url("../fonts/Ubuntu/ubuntu-b-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }

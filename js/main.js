@@ -194,7 +194,7 @@ $(function () {
 			myCollection = new ymaps.GeoObjectCollection({}, {
 				draggable: false,
 				iconLayout: 'default#image',
-				iconImageHref: '../img/icons/map-marker.svg',
+				iconImageHref: 'img/icons/map-marker.svg',
 				iconImageSize: [46, 57],
 				iconImageOffset: [-26, -52]
 			});
